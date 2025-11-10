@@ -1,2 +1,2 @@
 # 560-A-07-pandas
-try github (pandas)
+UNC Men's Basketball data set
